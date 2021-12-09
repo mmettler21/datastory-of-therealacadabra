@@ -21,4 +21,6 @@ A fourth approach would be to determine the importance of certain topics, depend
 
 Another question would be to verify if our study which will be based only on quotations is accurate or not.
 
+![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
+
 
