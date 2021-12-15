@@ -12,20 +12,6 @@ Many questions have to be studied before defining the method. First, some journa
 
 A first question would be: What are the main topics on which the newspaper diverge and do not agree? This one would have to be checked upstream, and then further developed using the dataset.
 
-<div class="container">
-    <div class="row" style="background-color: #1DA1F2;">
-        <div class="col-lg-6 col-md-6 nopadding">
-            <img src="images/brouillon.png"  >
-        </div>
-        <div class="col-lg-6 col-md-6 nopadding" style="color: #FFFFFF;">
-            <div class="boxtext">
-                <h2> Twitter </h2>
-          Twitter is one of the oldest social networks, founded in 2006, it is based on interaction around tweets. Tweets are short texts of 140 characters. In 2020, Twitter has an average of 320 million monthly users. The users of this network are very active, each year nearly 200 billion tweets are published.
-                Twitter is a generalist social network (news, humor, videos, blogging).
-            </div>
-        </div>
-    </div>
-</div>
 
 A second one would be to make a sentimental analysis of the quotations used in the newspapers and observe if there's any clear difference depending on the political affiliation. This [paper](https://engineering.stanford.edu/magazine/article/what-different-about-how-democrats-and-republicans-talk-online) analyzing the differences between both parties, which had studied tweets from Republicans and Democrats, showed that both don’t use the same sentiments when discussing about guns shooting and also depending on the shooter race.
 
