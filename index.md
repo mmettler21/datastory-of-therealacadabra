@@ -14,6 +14,8 @@ A first question would be: What are the main topics on which the newspaper diver
 
 A second one would be to make a sentimental analysis of the quotations used in the newspapers and observe if there's any clear difference depending on the political affiliation. This [paper](https://engineering.stanford.edu/magazine/article/what-different-about-how-democrats-and-republicans-talk-online) analyzing the differences between both parties, which had studied tweets from Republicans and Democrats, showed that both don’t use the same sentiments when discussing about guns shooting and also depending on the shooter race.
 
+<a href="https://www.statista.com/chart/21328/party-affiliation-by-news-source/" title="Infographic: Party Affiliation Defines News Sources | Statista"><img src="https://cdn.statcdn.com/Infographic/images/normal/21328.jpeg" alt="Infographic: Party Affiliation Defines News Sources | Statista" width="50%" height="auto" align="center" style="width: 50%; height: auto !important; max-width:960px;-ms-interpolation-mode: bicubic;"/></a>
+
 A third research question would be to verify whether the newspapers cite more public figures which share their opinions.
 Another questions would be to study if there's any linguistic and semantic difference between the newspapers. As in this study about computational semantics of language, which showed that Democrats use more modal verbs compared to Republicans to call for action.
 
