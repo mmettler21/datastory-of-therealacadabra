@@ -12,6 +12,28 @@ Many questions have to be studied before defining the method. First, some journa
 
 plotly.offline.plot(fig,filename='images/Lda_Fox.html',config={'displayModeBar': False})
 
+
+<html> 
+  <head> 
+    <script src="jquery.js"></script> 
+    <script> 
+    $(function(){
+       $("#includedContent1").load("images/Lda_Fox.html"); 
+    });
+    </script> 
+  </head> 
+
+  <body> 
+  <center> 
+  <h3> Comparison between the distribution of posts during the day across our platforms </h3>
+     <div id="includedContent1">Bonjour</div>
+     </center> 
+  </body> 
+</html>
+
+
+
+
 <html> 
   <head>
     <script> 
