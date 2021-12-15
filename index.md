@@ -32,7 +32,7 @@ plotly.offline.plot(fig,filename='images/Lda_Fox.html',config={'displayModeBar':
 Percent_quotations.png
 
 <p align="center">
-  <img width="600" src="Percent_quotations.png">
+  <img width="600" src="images/Percent_quotations.png">
 </p>
 
 <script>
