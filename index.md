@@ -10,6 +10,8 @@ This project aims at studying the political affiliation of some newspapers based
 
 Many questions have to be studied before defining the method. First, some journals have “centered” opinions or shaded positioning. That is why, the focus will be made on polarized newspapers, which will make it easier to study and define the parameters. 
 
+<p style="text-align:center;"><img src="images/brouillon.png"></p>
+
 A first question would be: What are the main topics on which the newspaper diverge and do not agree? This one would have to be checked upstream, and then further developed using the dataset.
 
 
