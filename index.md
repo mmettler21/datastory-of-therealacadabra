@@ -12,13 +12,11 @@ Many questions have to be studied before defining the method. First, some journa
 
 plotly.offline.plot(fig,filename='images/Lda_Fox.html',config={'displayModeBar': False})
 
-
 <html> 
-  <head> 
-    <script src="jquery.js"></script> 
+  <head>
     <script> 
     $(function(){
-       $("#includedContent1").load("images/Lda_Fox.html"); 
+      $("#includedContent1").load("images/Lda_Fox.html"); 
     });
     </script> 
   </head> 
@@ -26,12 +24,10 @@ plotly.offline.plot(fig,filename='images/Lda_Fox.html',config={'displayModeBar':
   <body> 
   <center> 
   <h3> Comparison between the distribution of posts during the day across our platforms </h3>
-     <div id="includedContent1">Bonjour</div>
+     <div id="includedContent1"></div>
      </center> 
   </body> 
 </html>
-
-
 
 <p align="center">
   <img width="600" src="images/brouillon.png">
@@ -55,7 +51,6 @@ A fourth approach would be to determine the importance of certain topics, depend
 Another question would be to verify if our study which will be based only on quotations is accurate or not.
 
 ![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
-
 
 <script>
 function includeHTML() {
@@ -90,4 +85,5 @@ function includeHTML() {
 <script>
 includeHTML();
 </script>
+
 
