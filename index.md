@@ -13,7 +13,7 @@ Many questions have to be studied before defining the method. First, some journa
 <p style="text-align:center;"><img src="images/brouillon.png"></p>
 
 <p align="center">
-  <img width="600" height="200" src="images/brouillon.png">
+  <img width="600" src="images/brouillon.png">
 </p>
 
 A first question would be: What are the main topics on which the newspaper diverge and do not agree? This one would have to be checked upstream, and then further developed using the dataset.
