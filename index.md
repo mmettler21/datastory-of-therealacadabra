@@ -15,7 +15,7 @@ Many questions have to be studied before defining the method. First, some journa
     <script src="jquery.js"></script> 
     <script> 
     $(function(){
-      $("#includedContent1").load("static/images/Lda_Fox.html"); 
+      $("#includedContent1").load("images/Lda_Fox.html"); 
     });
     </script> 
   </head> 
