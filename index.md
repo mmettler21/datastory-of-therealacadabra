@@ -10,7 +10,23 @@ This project aims at studying the political affiliation of some newspapers based
 
 Many questions have to be studied before defining the method. First, some journals have “centered” opinions or shaded positioning. That is why, the focus will be made on polarized newspapers, which will make it easier to study and define the parameters. 
 
-<p style="text-align:center;"><img src="images/brouillon.png"></p>
+<html> 
+  <head> 
+    <script src="jquery.js"></script> 
+    <script> 
+    $(function(){
+      $("#includedContent1").load("static/images/fig2a.html"); 
+    });
+    </script> 
+  </head> 
+
+  <body> 
+  <center> 
+  <h3> Comparison between the distribution of posts during the day across our platforms </h3>
+     <div id="includedContent1"></div>
+     </center> 
+  </body> 
+</html>
 
 <p align="center">
   <img width="600" src="images/brouillon.png">
