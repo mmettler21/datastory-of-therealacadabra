@@ -29,7 +29,12 @@ plotly.offline.plot(fig,filename='images/Lda_Fox.html',config={'displayModeBar':
   </body> 
 </html>
 
-Percent_quotations.png
+<body> 
+<center> 
+<h3> Comparison between the distribution of posts during the day across our platforms </h3>
+   <div id="includedContent1"></div>
+   </center> 
+</body> 
 
 <p align="center">
   <img width="600" src="images/Percent_quotations.png">
