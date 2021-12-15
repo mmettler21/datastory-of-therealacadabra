@@ -29,9 +29,17 @@ plotly.offline.plot(fig,filename='images/Lda_Fox.html',config={'displayModeBar':
   </body> 
 </html>
 
+Percent_quotations.png
+
+<p align="center">
+  <img width="600" src="Percent_quotations.png">
+</p>
+
+<script>
 <p align="center">
   <img width="600" src="images/brouillon.png">
 </p>
+ </script>
 
 A first question would be: What are the main topics on which the newspaper diverge and do not agree? This one would have to be checked upstream, and then further developed using the dataset.
 
