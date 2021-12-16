@@ -2,11 +2,11 @@
 
 ## Introduction
 
-### Abstrac
+### Abstract
 
-Donald Trump banned from twitter; this sentence should be familiar to you. In the last ten years, there has been an explosion of polemical phrases of all kinds. Most of the well-known newspapers have picked up these quotations and put them in their columns, and not only from Twitter... Thanks to the framework *Quobert*, developed by Robert West and others, we have a dataset of millions of quotations on hand coming from different newspapers. The million-dollar question was the next one, what can we proceed with such a dataset?
+Donald Trump banned from twitter; this sentence should be familiar to you. In the last ten years, there has been an explosion of polemical phrases of all kinds. Most of the well-known newspapers have picked up these quotations and put them in their columns, and not only from Twitter... Thanks to the framework *Quobert*, developed by Robert West and others, we have a dataset of millions of quotations on hand coming from different newspapers between 2015 to 2020. The million-dollar question was the next one, what can we proceed with such a dataset?
 
-To point out some interesting facts about these quotations, we have decided that we are going to focus on three main reading axes. Before doing this, the key step is to read the entire dataset. Once this has been done, we can then much easily play with our data! The three focus we picked out are about topic detection, speakers, and sentimental analysis. Then, the goal is to make comparisons between newspapers affiliated with Democrats or Republicans, and to see if there is an affiliation between the quotations reported in the newspapers and their political positioning. Since there was plenty of different newspaper, we decided to focus initially on only two newspapers, whose political views were well known.
+To point out some interesting facts about these quotations, we have decided that we are going to focus on three main reading axes. Before doing this, the key step is to read the entire dataset. Once this has been done, we can then much easily play with our data! The three focus we picked out are about topic detection, speakers, and sentimental analysis. Once we analyse the quotations with those guidelines, the goal is to make comparisons between newspapers affiliated with Democrats or Republicans, and to see if there is an affiliation between the quotations reported in the newspapers and their political positioning. Since there was plenty of different newspaper, we decided to focus initially on only two newspapers, whose political views were well known.
 
 
 
