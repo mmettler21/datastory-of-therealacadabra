@@ -4,6 +4,11 @@
 
 ### Abstrac
 
+Donald Trump banned from twitter, this sentence should be familiar to you. In the last ten years, there has been an explosion of polemical phrases of all kinds. Most of the well-known newspapers have picked up these quotations and put them in their columns, and not only from Twitter... Thanks to the framework *Quobert*, developped by Robert West and others, we have a dataset of millions of quotations on hand coming from different newspapers. The million dollar question was the next one, what can we proceed with such a dataset ?
+
+In order to point out some intersting facts about these quotations, we have decided that we are going to focus on three main reading axis. Before doing this, the key step is to read the entire dataset. Once this has been done, we can then much easily play with our data ! The three main focus we picked out are about topic detection, speakers and sentimental analysis. Then, the goal is to make comparisons between newspapers affiliated with Democrats or Republicans, and to see if there is an affiliation between the quotations reported in the newspapers and their political positioning. Due to the fact that there was plenty of different newspaper, we decided to focus initially on only two newspapers, whose political views were well known. 
+
+
 This project aims at studying the political affiliation of some newspapers based on the dataset set given from 2015 to 2020. The main idea is to choose some newspapers that have a known and clear positioning and then study some “key parameters” through the dataset to check if they support or correlate with our statement (political affiliation). The parameters would have to be defined from the beginning according to the journal’s beliefs. The objective being to analyse which parameters (linguistic differences, topics spoken about, personalities cited, …) would allow to make a difference between them. Once a link is made between “parameters” and newspaper positioning, a second goal would be to repeat this work on other journals, less known or not, and see if we could determine their political affiliation. Thus, the idea is to produce a clear framework that would allow to compare newspapers and state their political affiliation.
 
 ## Research questions
@@ -11,23 +16,6 @@ This project aims at studying the political affiliation of some newspapers based
 Many questions have to be studied before defining the method. First, some journals have “centered” opinions or shaded positioning. That is why, the focus will be made on polarized newspapers, which will make it easier to study and define the parameters. 
 
 plotly.offline.plot(fig,filename='images/Lda_Fox.html',config={'displayModeBar': False})
-
-<html> 
-  <head>
-    <script> 
-    $(function(){
-      $("#includedContent1").load("images/Lda_Fox.html"); 
-    });
-    </script> 
-  </head> 
-
-  <body> 
-  <center> 
-  <h3> Comparison between the distribution of posts during the day across our platforms </h3>
-     <div id="includedContent1"></div>
-     </center> 
-  </body> 
-</html>
 
 <body> 
 <center> 
