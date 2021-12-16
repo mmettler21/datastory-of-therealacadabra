@@ -19,7 +19,7 @@ First, the choice of the two newspapers we will work with is crucial. Some journ
 
 ### Wrangling and reading the dataset
 
-For this 
+After more than 35930395 trials, we managed
 
 
 ## Research questions
