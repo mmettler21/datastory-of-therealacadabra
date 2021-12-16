@@ -8,9 +8,13 @@ Donald Trump banned from twitter; this sentence should be familiar to you. In th
 
 To point out some interesting facts about these quotations, we have decided that we are going to focus on three main reading axes. Before doing this, the key step is to read the entire dataset. Once this has been done, we can then much easily play with our data! Then, we decided to make comparisons between newspapers affiliated with Democrats or Republicans, and to see if there is an affiliation between the quotations reported in the newspapers and their political positioning. Since there are plenty of different newspaper, we decided to focus initially on only two newspapers, whose political views are well known. For doing comparisons between two newspapers, the objective is to analyze which parameters allow to make a difference between them. The three parameters we picked out are topic detection, speakers, and sentiment analysis. Once we analyze the quotations of two newspapers with those guidelines, the next step is apply the parameters whose give a signifcant results to other journals. That in order to produce a clear framework that would allow to compare newspapers and state their political affiliation.
 
+## Methods
+
 ### Choice of the two reference newspapers
 
 First, some journals have “centered” opinions or shaded positioning. That is why, the focus will be made on polarized newspapers, which will make it easier to study and define the parameters. For our study, two newspaper have been chosen: Foxnews and New York Times. Both are polarized, Foxnews is in favor of more conservative political positions and is mainly viewed by Republican partisans while NYT is more left-leaning and followed mainly by Democrats (figure below).
+
+<a href="https://www.statista.com/chart/21328/party-affiliation-by-news-source/" title="Infographic: Party Affiliation Defines News Sources | Statista"><img src="https://cdn.statcdn.com/Infographic/images/normal/21328.jpeg" alt="Infographic: Party Affiliation Defines News Sources | Statista" width="50%" height="auto" align="center" style="width: 50%; height: auto !important; max-width:960px;-ms-interpolation-mode: bicubic;"/></a>
 
 
 <iframe src="images/Lda_Fox.html" style="width: 1300px; height: 900px; border: 0px"></iframe>
