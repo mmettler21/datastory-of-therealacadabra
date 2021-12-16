@@ -4,9 +4,9 @@
 
 ### Abstract
 
-Donald Trump banned from twitter; this sentence should be familiar to you. In the last ten years, there has been an explosion of polemical phrases of all kinds. Most of the well-known newspapers have picked up these quotations and put them in their columns, and not only from Twitter... Thanks to the framework *Quobert*, developed by Robert West and others, we have a dataset of millions of quotations on hand coming from different newspapers between 2015 to 2020. The million-dollar question was the next one, what can we proceed with such a dataset?
+Donald Trump banned from twitter; this sentence should be familiar to you. In the last ten years, there has been an explosion of polemical phrases of all kinds. Most of the well-known newspapers have picked up these quotations and put them in their columns, and not only from Twitter... Thanks to the framework *Quobert*, developed by Robert West and others, we have a dataset of millions of quotations on hand coming from different newspapers between 2015 to 2020. The <b> million-dollar </b> question was the next one, what can we proceed with such a dataset?
 
-To point out some interesting facts about these quotations, we have decided that we are going to focus on three main reading axes. Before doing this, the key step is to read the entire dataset. Once this has been done, we can then much easily play with our data! Then, we decided to make comparisons between newspapers affiliated with Democrats or Republicans, and to see if there is an affiliation between the quotations reported in the newspapers and their political positioning. Since there are plenty of different newspaper, we decided to focus initially on only two newspapers, whose political views are well known. For doing comparisons between two newspapers, the objective is to analyze which parameters allow to make a difference between them. The three parameters we picked out are topic detection, speakers, and sentiment analysis. Once we analyze the quotations of two newspapers with those guidelines, the next step is apply the parameters whose give a signifcant results to other journals. That in order to produce a clear framework that would allow to compare newspapers and state their political affiliation.
+To point out some interesting facts about these quotations, we have decided that we are going to focus on three main reading axes. Before doing this, the key step is <b> to read the entire dataset </b>. Once this has been done, we can then <b> much easily play with our data </b> ! Then, we decided to make <b> comparisons </b> between newspapers affiliated with <b> Democrats or Republicans </b>, and to see if there is an affiliation between the quotations reported in the newspapers and their political positioning. Since there are plenty of different newspaper, we decided <b> to focus initially on only two newspapers </b>, whose political views are well known. For doing comparisons between two newspapers, the objective is to analyze which <b> parameters </b> allow to make a difference between them. The three <b> parameters </b> we picked out are <b> topic detection, speakers, and sentiment analysis </b>. Once we analyze the quotations of two newspapers with those guidelines, the next step is apply the parameters whose give a signifcant results to other journals. That in order to produce a clear framework that would allow to compare newspapers and state their political affiliation.
 
 ## Methods
 
@@ -17,8 +17,10 @@ First, the choice of the two newspapers we will work with is crucial. Some journ
 
 <a href="https://www.statista.com/chart/21328/party-affiliation-by-news-source/" title="Infographic: Party Affiliation Defines News Sources | Statista"><img src="https://cdn.statcdn.com/Infographic/images/normal/21328.jpeg" alt="Infographic: Party Affiliation Defines News Sources | Statista" width="50%" height="auto" align="center" style="width: 50%; height: auto !important; max-width:960px;-ms-interpolation-mode: bicubic;"/></a>
 
+### Wrangling and reading the dataset
 
-<iframe src="images/Lda_Fox.html" style="width: 1300px; height: 900px; border: 0px"></iframe>
+For this 
+
 
 ## Research questions
 
@@ -44,6 +46,8 @@ plotly.offline.plot(fig,filename='images/Lda_Fox.html',config={'displayModeBar':
  </script>
 
 A first question would be: What are the main topics on which the newspaper diverge and do not agree? This one would have to be checked upstream, and then further developed using the dataset.
+
+<iframe src="images/Lda_Fox.html" style="width: 1300px; height: 900px; border: 0px"></iframe>
 
 <p align="center">
   <img width="600" height="200" src="images/brouillon.png">
